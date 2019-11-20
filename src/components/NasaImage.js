@@ -27,7 +27,7 @@ return(
         <h1>{title}</h1>
         <h2>{date}</h2>
         <p>{explanation}</p>
-        <h6>HELLO WORLD</h6>
+        <h6>HELLO WORLD, this is just a little test.</h6>
     </div>
 
 )
