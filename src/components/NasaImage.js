@@ -23,7 +23,7 @@ function NasaImage(){
 
 return(
     <div>
-        <img src={nasaImage} alt='A lighthouse illuminated by the deep blue/purple sky full of stars'/>
+        <img src={nasaImage} alt='different pictures of space daily'/>
         <h1>{title}</h1>
         <h2>{date}</h2>
         <p>{explanation}</p>
