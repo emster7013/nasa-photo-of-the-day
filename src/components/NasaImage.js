@@ -22,7 +22,7 @@ function NasaImage(){
 })}, [])
 
 return(
-    <div>
+    <div className='nasa-info'>
         <img src={nasaImage} alt='different pictures of space daily'/>
         <h1>{title}</h1>
         <h2>{date}</h2>
